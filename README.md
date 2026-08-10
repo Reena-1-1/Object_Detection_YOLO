@@ -156,22 +156,24 @@ Bounding boxes
 Object names
 Confidence scores
 Detection counts
-🖼️ Application Screenshots
-🏠 Application Interface
 
-screenshots/home.png
-🎯 Object Detection Result
+## 🖼️ Application Screenshots
 
+### 🏠 Application Interface
+![Application Interface](screenshots/home.png)
 
-screenshots/detection-result.png
-📊 Detection Summary
+### 🎯 Object Detection Result
+![Object Detection Result](screenshots/detection-result.png)
 
+### 📊 Detection Summary
+![Detection Summary](screenshots/detection-summary.png)
 
-screenshots/detection-summary.png
-🔗 Project Links
-💻 GitHub Repository
+---
 
-https://github.com/Reena-1-1/Object_Detection_YOLO
+## 🔗 Project Links
+### 💻 GitHub Repository
+[View the GitHub Repository](https://github.com/Reena-1-1/Object_Detection_YOLO)
+
 
 🌐 Live Demo
 
